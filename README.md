@@ -17,8 +17,8 @@ Until then, I decided to build an app that would do the following:
  
 ### installation instructions:
 Pull the code, or download the ZIP, build the app and install the apk on your device.
-Or  you can download the APK from here: 
-https://appsenjoy.com/h6s4Y
+Or  you can download the approved app from google play:
+https://play.google.com/store/apps/details?id=com.davidr.qrcertificate
 
 Screenshot from the app:
 ![Image of screenshot](https://github.com/davidrec/vaccineCertificate/blob/master/app/Img/Screenshot.png)
